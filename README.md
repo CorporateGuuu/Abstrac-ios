@@ -112,3 +112,4 @@ firebase functions:list
 # Test security rules
 firebase firestore:indexes  # Check if rules deployed
 # Abstrac-ios
+# Abstrac-ios
